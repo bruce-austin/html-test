@@ -1,0 +1,435 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-28JuniorFeathrwt
+FamilyName:Knockout
+StyleName:28 Junior Featherweight
+MenuName:Knockout 28 Junior Feathrwt
+StyleBits:0
+WeightClass:310
+WidthClass:5
+AngleClass:0
+FullName:Knockout 28 Junior Featherweight
+WritingScript:Roman
+OutlineFileName:\Knockout-28.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:56672
+FileModTime:1394156294
+NameArray:0,Mac,18,Knockout 28 Junior Feathrwt
+NameArray:0,Mac,4,Knockout 28 Junior Featherweight
+NameArray:0,Win,1,Knockout 28 Junior Feathrwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-30JuniorWelterwt
+FamilyName:Knockout
+StyleName:30 Junior Welterweight
+MenuName:Knockout 30 Junior Welterwt
+StyleBits:0
+WeightClass:320
+WidthClass:5
+AngleClass:0
+FullName:Knockout 30 Junior Welterweight
+WritingScript:Roman
+OutlineFileName:\Knockout-30.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:51936
+FileModTime:1394156318
+NameArray:0,Mac,4,Knockout 30 Junior Welterweight
+NameArray:0,Win,1,Knockout 30 Junior Welterwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-31JuniorMiddlewt
+FamilyName:Knockout
+StyleName:31 Junior Middleweight
+MenuName:Knockout 31 Junior Middlewt
+StyleBits:0
+WeightClass:325
+WidthClass:5
+AngleClass:0
+FullName:Knockout 31 Junior Middleweight
+WritingScript:Roman
+OutlineFileName:\Knockout-31.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64664
+FileModTime:1394156330
+NameArray:0,Mac,4,Knockout 31 Junior Middleweight
+NameArray:0,Win,1,Knockout 31 Junior Middlewt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-48Featherweight
+FamilyName:Knockout
+StyleName:48 Featherweight
+MenuName:Knockout 48 Featherweight
+StyleBits:0
+WeightClass:355
+WidthClass:5
+AngleClass:0
+FullName:Knockout 48 Featherweight
+WritingScript:Roman
+OutlineFileName:\Knockout-48.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:61624
+FileModTime:1394156396
+NameArray:0,Mac,4,Knockout 48 Featherweight
+NameArray:0,Win,1,Knockout 48 Featherweight
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-49Liteweight
+FamilyName:Knockout
+StyleName:49 Liteweight
+MenuName:Knockout 49 Liteweight
+StyleBits:0
+WeightClass:360
+WidthClass:5
+AngleClass:0
+FullName:Knockout 49 Liteweight
+WritingScript:Roman
+OutlineFileName:\Knockout-49.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:71516
+FileModTime:1394156408
+NameArray:0,Mac,4,Knockout 49 Liteweight
+NameArray:0,Win,1,Knockout 49 Liteweight
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-50Welterweight
+FamilyName:Knockout
+StyleName:50 Welterweight
+MenuName:Knockout 50 Welterweight
+StyleBits:0
+WeightClass:365
+WidthClass:5
+AngleClass:0
+FullName:Knockout 50 Welterweight
+WritingScript:Roman
+OutlineFileName:\Knockout-50.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:70216
+FileModTime:1394156420
+NameArray:0,Mac,4,Knockout 50 Welterweight
+NameArray:0,Win,1,Knockout 50 Welterweight
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-51Middleweight
+FamilyName:Knockout
+StyleName:51 Middleweight
+MenuName:Knockout 51 Middleweight
+StyleBits:0
+WeightClass:370
+WidthClass:5
+AngleClass:0
+FullName:Knockout 51 Middleweight
+WritingScript:Roman
+OutlineFileName:\Knockout-51.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:66928
+FileModTime:1394156430
+NameArray:0,Mac,4,Knockout 51 Middleweight
+NameArray:0,Win,1,Knockout 51 Middleweight
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-66FullFlyweight
+FamilyName:Knockout
+StyleName:66 Full Flyweight
+MenuName:Knockout 66 Full Flyweight
+StyleBits:0
+WeightClass:390
+WidthClass:5
+AngleClass:0
+FullName:Knockout 66 Full Flyweight
+WritingScript:Roman
+OutlineFileName:\Knockout-66.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:41088
+FileModTime:1394156474
+NameArray:0,Mac,4,Knockout 66 Full Flyweight
+NameArray:0,Win,1,Knockout 66 Full Flyweight
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-67FullBantamwt
+FamilyName:Knockout
+StyleName:67 Full Bantamweight
+MenuName:Knockout 67 Full Bantamwt
+StyleBits:0
+WeightClass:395
+WidthClass:5
+AngleClass:0
+FullName:Knockout 67 Full Bantamweight
+WritingScript:Roman
+OutlineFileName:\Knockout-67.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:51960
+FileModTime:1394156488
+NameArray:0,Mac,4,Knockout 67 Full Bantamweight
+NameArray:0,Win,1,Knockout 67 Full Bantamwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-68FullFeatherwt
+FamilyName:Knockout
+StyleName:68 Full Featherwt
+MenuName:Knockout 68 Full Featherwt
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Knockout 68 Full Featherwt
+WritingScript:Roman
+OutlineFileName:\Knockout-68.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:51632
+FileModTime:1394156498
+NameArray:0,Mac,4,Knockout 68 Full Featherwt
+NameArray:0,Win,1,Knockout 68 Full Featherwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-69FullLiteweight
+FamilyName:Knockout
+StyleName:69 Full Liteweight
+MenuName:Knockout 69 Full Liteweight
+StyleBits:0
+WeightClass:405
+WidthClass:5
+AngleClass:0
+FullName:Knockout 69 Full Liteweight
+WritingScript:Roman
+OutlineFileName:\Knockout-69.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:53540
+FileModTime:1394156510
+NameArray:0,Mac,4,Knockout 69 Full Liteweight
+NameArray:0,Win,1,Knockout 69 Full Liteweight
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-70FullWelterwt
+FamilyName:Knockout
+StyleName:70 Full Welterweight
+MenuName:Knockout 70 Full Welterwt
+StyleBits:0
+WeightClass:410
+WidthClass:5
+AngleClass:0
+FullName:Knockout 70 Full Welterweight
+WritingScript:Roman
+OutlineFileName:\Knockout-70.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:49448
+FileModTime:1394156520
+NameArray:0,Mac,4,Knockout 70 Full Welterweight
+NameArray:0,Win,1,Knockout 70 Full Welterwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-72FullCruiserwt
+FamilyName:Knockout
+StyleName:72 Full Cruiserweight
+MenuName:Knockout 72 Full Cruiserwt
+StyleBits:0
+WeightClass:420
+WidthClass:5
+AngleClass:0
+FullName:Knockout 72 Full Cruiserweight
+WritingScript:Roman
+OutlineFileName:\Knockout-72.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:60188
+FileModTime:1394156542
+NameArray:0,Mac,4,Knockout 72 Full Cruiserweight
+NameArray:0,Win,1,Knockout 72 Full Cruiserwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-73FullHeviweight
+FamilyName:Knockout
+StyleName:73 Full Heviweight
+MenuName:Knockout 73 Full Heviweight
+StyleBits:0
+WeightClass:425
+WidthClass:5
+AngleClass:0
+FullName:Knockout 73 Full Heviweight
+WritingScript:Roman
+OutlineFileName:\Knockout-73.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:60232
+FileModTime:1394156554
+NameArray:0,Mac,4,Knockout 73 Full Heviweight
+NameArray:0,Win,1,Knockout 73 Full Heviweight
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-90UltmtWelterwt
+FamilyName:Knockout
+StyleName:90 Ultimate Welterweight
+MenuName:Knockout 90 Ultmt Welterwt
+StyleBits:0
+WeightClass:435
+WidthClass:5
+AngleClass:0
+FullName:Knockout 90 Ultimate Welterweight
+WritingScript:Roman
+OutlineFileName:\Knockout-90.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:54008
+FileModTime:1394156576
+NameArray:0,Mac,18,Knockout 90 Ultimate Welterwt
+NameArray:0,Mac,4,Knockout 90 Ultimate Welterweight
+NameArray:0,Win,1,Knockout 90 Ultmt Welterwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-92UltmtCruiserwt
+FamilyName:Knockout
+StyleName:92 Ultimate Cruiserweight
+MenuName:Knockout 92 Ultmt Cruiserwt
+StyleBits:0
+WeightClass:445
+WidthClass:5
+AngleClass:0
+FullName:Knockout 92 Ultimate Cruiserweight
+WritingScript:Roman
+OutlineFileName:\Knockout-92.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:63772
+FileModTime:1394156598
+NameArray:0,Mac,18,Knockout 92 Ultimate Cruiserwt
+NameArray:0,Mac,4,Knockout 92 Ultimate Cruiserweight
+NameArray:0,Win,1,Knockout 92 Ultmt Cruiserwt
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Knockout-94UltmtSumo
+FamilyName:Knockout
+StyleName:94 Ultimate Sumo
+MenuName:Knockout 94 Ultmt Sumo
+StyleBits:0
+WeightClass:455
+WidthClass:5
+AngleClass:0
+FullName:Knockout 94 Ultimate Sumo
+WritingScript:Roman
+OutlineFileName:\Knockout-94.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:58696
+FileModTime:1394156620
+NameArray:0,Mac,4,Knockout 94 Ultimate Sumo
+NameArray:0,Win,1,Knockout 94 Ultmt Sumo
+NameArray:0,Win,16,Knockout
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vintagefair-Regular
+FamilyName:Vintage_fair
+StyleName:Regular
+MenuName:Vintage_fair
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Vintage_fair Regular
+WritingScript:Roman
+OutlineFileName:\Vintage_fair.ttf
+DataFormat:sfntData
+FileLength:320052
+FileModTime:1382408950
+NameArray:0,Mac,4,Vintage_fair Regular
+NameArray:0,Win,1,Vintage_fair
+%EndFont
+

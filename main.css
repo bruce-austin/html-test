@@ -1,0 +1,95 @@
+@font-face {
+	font-family:'Knockout 28';
+	src: url('fonts/Knockout-28.otf');
+}
+
+@font-face {
+	font-family:'Knockout 48';
+	src: url('fonts/Knockout-48.otf');
+}
+
+@font-face {
+	font-family:'Knockout 90';
+	src: url('fonts/Knockout-90.otf');
+}
+
+html,
+body { 
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	text-transform: uppercase;
+	font-family: 'Knockout 28', sans-serif;
+	font-size: 60px;
+	color: #f3e8d6;
+	background: #000000 url('background.png') no-repeat;
+	padding-left: 350px;
+}
+
+h1 {
+	font-family: 'Knockout 90', sans-serif; 
+	font-size: 170px;
+	margin: 70 0 0 0;
+}
+
+h2 {
+	font-family: 'Knockout 48', sans-serif; 
+	font-size: 100px;
+	margin: 15 0 0 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	list-style: none;
+}
+.header{
+	
+}
+
+.menu {
+	
+}
+
+.menu > div {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.menu .left-side {
+	width: 400px;
+	margin-right: 200px;
+}
+
+.menu-section > ul,
+.right-align {
+	display: inline-block;
+}
+
+.right-align {
+	text-align: right;
+	width: 90px;
+	margin-right: 20px;
+}
+
+.spicey-header {
+	padding-left: 110px
+}
+
+.calories {
+	font-size: 32;
+	padding-left: 7px;
+}
+
+.orange {
+	color: #fa9f1d;
+}
+
+.menu-section {
+	padding-bottom: 50;
+}
